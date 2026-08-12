@@ -1,2 +1,15 @@
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+# M. Saeed Arvenaghi
+
+I am a computer science researcher working with IPM and an AI Technical Product Lead at DeepSpring. I work on machine learning, AI agents, optimization, and quantum computing.
+
+At DeepSpring, I help design and build agentic AI and optimization systems. Most of that work is in private repositories because it involves company products and client projects. This profile contains the research code and personal projects I can share publicly.
+
+## Selected projects
+
+- **[QLipSDP](https://github.com/SaeedARV/QLipSDP):** Methods for estimating Lipschitz constants of hybrid quantum-classical decision models through semidefinite optimization and numerical experiments. The associated preprint is available on [arXiv](https://arxiv.org/abs/2503.07992).
+
+- **[ConvexHull](https://github.com/SaeedARV/ConvexHull):** Collaborative research code for scalable convex-hull approximation. The repository includes Python, Numba, and C++ implementations, experiments, benchmarks, and a convexity-aware DeepHull extension.
+
+## Contact
+
+[Google Scholar](https://scholar.google.com/citations?user=jrVfLFgAAAAJ) | [LinkedIn](https://www.linkedin.com/in/mohammad-saeed-arvenaghi/) | [Email](mailto:m.saeed.arvenaghi@gmail.com)
